@@ -90,5 +90,19 @@ header > h1{
     color:  #fffffc;
     font-weight: bold;
     font-size: 20px;
-
 }
+
+.green-glow{
+    border: 4px solid #008000;
+    box-shadow: 0 0 10px  #38b000;
+ }
+ 
+ .red-glow{
+    border: 4px solid #8d0801;
+    box-shadow: 0 0 10px #bf0603;
+ }
+ 
+ .grey-glow{
+   border: 4px solid #847577;
+   box-shadow: 0 0 10px #a6a2a2;
+ }
